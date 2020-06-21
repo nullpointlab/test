@@ -1,0 +1,4 @@
+[submodule "sample_gist"]
+	path = sample_gist
+	url = git@gist.github.com:a955860f2dead7d4d0f7d95b05fbd20a.git
+	branch = master
